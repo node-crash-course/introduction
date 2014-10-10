@@ -1,4 +1,4 @@
-Session 6: Introduction to Node.js
+Introduction to Node.js
 ==================================
 
 #Objective
